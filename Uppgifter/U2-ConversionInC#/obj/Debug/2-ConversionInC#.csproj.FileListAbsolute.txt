@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\C#uppgifter\2-ConversionInC#\bin\Debug\2-ConversionInC#.exe.config
+C:\Users\admin1\Documents\C#uppgifter\2-ConversionInC#\bin\Debug\2-ConversionInC#.exe
+C:\Users\admin1\Documents\C#uppgifter\2-ConversionInC#\bin\Debug\2-ConversionInC#.pdb
+C:\Users\admin1\Documents\C#uppgifter\2-ConversionInC#\obj\Debug\2-ConversionInC#.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#uppgifter\2-ConversionInC#\obj\Debug\2-ConversionInC#.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#uppgifter\2-ConversionInC#\obj\Debug\2-ConversionInC#.exe
+C:\Users\admin1\Documents\C#uppgifter\2-ConversionInC#\obj\Debug\2-ConversionInC#.pdb
