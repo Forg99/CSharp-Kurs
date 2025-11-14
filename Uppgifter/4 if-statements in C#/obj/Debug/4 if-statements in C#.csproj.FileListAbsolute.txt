@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\C#uppgifter\4 if-statements in C#\obj\Debug\4 if-statements in C#.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#uppgifter\4 if-statements in C#\obj\Debug\4 if-statements in C#.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#uppgifter\4 if-statements in C#\bin\Debug\4 if-statements in C#.exe.config
+C:\Users\admin1\Documents\C#uppgifter\4 if-statements in C#\bin\Debug\4 if-statements in C#.exe
+C:\Users\admin1\Documents\C#uppgifter\4 if-statements in C#\bin\Debug\4 if-statements in C#.pdb
+C:\Users\admin1\Documents\C#uppgifter\4 if-statements in C#\obj\Debug\4 if-statements in C#.exe
+C:\Users\admin1\Documents\C#uppgifter\4 if-statements in C#\obj\Debug\4 if-statements in C#.pdb
+C:\Users\admin1\Documents\C#uppgifter\4 if-statements in C#\obj\Debug\4 if-statements in C#.exe.config

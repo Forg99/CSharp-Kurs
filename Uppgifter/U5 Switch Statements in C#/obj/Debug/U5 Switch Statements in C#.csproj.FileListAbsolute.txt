@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\C#uppgifter\U5 Switch Statements in C#\bin\Debug\U5 Switch Statements in C#.exe.config
+C:\Users\admin1\Documents\C#uppgifter\U5 Switch Statements in C#\bin\Debug\U5 Switch Statements in C#.exe
+C:\Users\admin1\Documents\C#uppgifter\U5 Switch Statements in C#\bin\Debug\U5 Switch Statements in C#.pdb
+C:\Users\admin1\Documents\C#uppgifter\U5 Switch Statements in C#\obj\Debug\U5 Switch Statements in C#.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#uppgifter\U5 Switch Statements in C#\obj\Debug\U5 Switch Statements in C#.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#uppgifter\U5 Switch Statements in C#\obj\Debug\U5 Switch Statements in C#.exe
+C:\Users\admin1\Documents\C#uppgifter\U5 Switch Statements in C#\obj\Debug\U5 Switch Statements in C#.pdb

@@ -1,0 +1,7 @@
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U10 Operators in Csharp\U10 Operators in Csharp\bin\Debug\U10 Operators in Csharp.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U10 Operators in Csharp\U10 Operators in Csharp\bin\Debug\U10 Operators in Csharp.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U10 Operators in Csharp\U10 Operators in Csharp\bin\Debug\U10 Operators in Csharp.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U10 Operators in Csharp\U10 Operators in Csharp\obj\Debug\U10 Operators in Csharp.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U10 Operators in Csharp\U10 Operators in Csharp\obj\Debug\U10 Operators in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U10 Operators in Csharp\U10 Operators in Csharp\obj\Debug\U10 Operators in Csharp.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U10 Operators in Csharp\U10 Operators in Csharp\obj\Debug\U10 Operators in Csharp.pdb
