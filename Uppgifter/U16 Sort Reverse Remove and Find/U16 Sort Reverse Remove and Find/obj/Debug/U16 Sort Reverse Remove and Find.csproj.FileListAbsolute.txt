@@ -1,0 +1,7 @@
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U16 Sort Reverse Remove and Find\U16 Sort Reverse Remove and Find\bin\Debug\U16 Sort Reverse Remove and Find.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U16 Sort Reverse Remove and Find\U16 Sort Reverse Remove and Find\bin\Debug\U16 Sort Reverse Remove and Find.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U16 Sort Reverse Remove and Find\U16 Sort Reverse Remove and Find\bin\Debug\U16 Sort Reverse Remove and Find.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U16 Sort Reverse Remove and Find\U16 Sort Reverse Remove and Find\obj\Debug\U16 Sort Reverse Remove and Find.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U16 Sort Reverse Remove and Find\U16 Sort Reverse Remove and Find\obj\Debug\U16 Sort Reverse Remove and Find.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U16 Sort Reverse Remove and Find\U16 Sort Reverse Remove and Find\obj\Debug\U16 Sort Reverse Remove and Find.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U16 Sort Reverse Remove and Find\U16 Sort Reverse Remove and Find\obj\Debug\U16 Sort Reverse Remove and Find.pdb

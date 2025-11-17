@@ -1,0 +1,7 @@
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U14 Array multiplication in Csharp\U14 Array multiplication in Csharp\bin\Debug\U14 Array multiplication in Csharp.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U14 Array multiplication in Csharp\U14 Array multiplication in Csharp\bin\Debug\U14 Array multiplication in Csharp.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U14 Array multiplication in Csharp\U14 Array multiplication in Csharp\bin\Debug\U14 Array multiplication in Csharp.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U14 Array multiplication in Csharp\U14 Array multiplication in Csharp\obj\Debug\U14 Array multiplication in Csharp.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U14 Array multiplication in Csharp\U14 Array multiplication in Csharp\obj\Debug\U14 Array multiplication in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U14 Array multiplication in Csharp\U14 Array multiplication in Csharp\obj\Debug\U14 Array multiplication in Csharp.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U14 Array multiplication in Csharp\U14 Array multiplication in Csharp\obj\Debug\U14 Array multiplication in Csharp.pdb

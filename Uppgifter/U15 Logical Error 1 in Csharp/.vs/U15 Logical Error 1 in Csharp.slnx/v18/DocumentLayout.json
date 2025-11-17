@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fredrik\\Documents\\Praktikum C# skit\\C#uppgifter\\U15 Logical Error 1 in Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2425FB91-5A7B-4A23-890B-362B5694D342}|U15 Logical Error 1 in Csharp\\U15 Logical Error 1 in Csharp.csproj|c:\\users\\fredrik\\documents\\praktikum c# skit\\c#uppgifter\\u15 logical error 1 in csharp\\u15 logical error 1 in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425FB91-5A7B-4A23-890B-362B5694D342}|U15 Logical Error 1 in Csharp\\U15 Logical Error 1 in Csharp.csproj|solutionrelative:u15 logical error 1 in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrik\\Documents\\Praktikum C# skit\\C#uppgifter\\U15 Logical Error 1 in Csharp\\U15 Logical Error 1 in Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "U15 Logical Error 1 in Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Fredrik\\Documents\\Praktikum C# skit\\C#uppgifter\\U15 Logical Error 1 in Csharp\\U15 Logical Error 1 in Csharp\\Program.cs",
+              "RelativeToolTip": "U15 Logical Error 1 in Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:54:49.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

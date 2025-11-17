@@ -1,0 +1,7 @@
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U15 Logical Error 1 in Csharp\U15 Logical Error 1 in Csharp\bin\Debug\U15 Logical Error 1 in Csharp.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U15 Logical Error 1 in Csharp\U15 Logical Error 1 in Csharp\bin\Debug\U15 Logical Error 1 in Csharp.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U15 Logical Error 1 in Csharp\U15 Logical Error 1 in Csharp\bin\Debug\U15 Logical Error 1 in Csharp.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U15 Logical Error 1 in Csharp\U15 Logical Error 1 in Csharp\obj\Debug\U15 Logical Error 1 in Csharp.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U15 Logical Error 1 in Csharp\U15 Logical Error 1 in Csharp\obj\Debug\U15 Logical Error 1 in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U15 Logical Error 1 in Csharp\U15 Logical Error 1 in Csharp\obj\Debug\U15 Logical Error 1 in Csharp.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U15 Logical Error 1 in Csharp\U15 Logical Error 1 in Csharp\obj\Debug\U15 Logical Error 1 in Csharp.pdb
