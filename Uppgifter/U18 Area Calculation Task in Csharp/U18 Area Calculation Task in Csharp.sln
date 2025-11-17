@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U18 Area Calculation Task in Csharp", "U18 Area Calculation Task in Csharp.csproj", "{DE1B27AF-8B89-404D-AD94-CBBF5B4690D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE1B27AF-8B89-404D-AD94-CBBF5B4690D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1B27AF-8B89-404D-AD94-CBBF5B4690D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1B27AF-8B89-404D-AD94-CBBF5B4690D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1B27AF-8B89-404D-AD94-CBBF5B4690D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F7C281-8905-4CED-9557-FA4ACB8DCF0D}
+	EndGlobalSection
+EndGlobal

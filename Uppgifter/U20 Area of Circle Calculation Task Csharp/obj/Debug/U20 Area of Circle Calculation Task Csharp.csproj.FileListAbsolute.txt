@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\C#uppgifter\U20 Area of Circle Calculation Task Csharp\bin\Debug\U20 Area of Circle Calculation Task Csharp.exe.config
+C:\Users\admin1\Documents\C#uppgifter\U20 Area of Circle Calculation Task Csharp\bin\Debug\U20 Area of Circle Calculation Task Csharp.exe
+C:\Users\admin1\Documents\C#uppgifter\U20 Area of Circle Calculation Task Csharp\bin\Debug\U20 Area of Circle Calculation Task Csharp.pdb
+C:\Users\admin1\Documents\C#uppgifter\U20 Area of Circle Calculation Task Csharp\obj\Debug\U20 Area of Circle Calculation Task Csharp.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#uppgifter\U20 Area of Circle Calculation Task Csharp\obj\Debug\U20 Area of Circle Calculation Task Csharp.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#uppgifter\U20 Area of Circle Calculation Task Csharp\obj\Debug\U20 Area of Circle Calculation Task Csharp.exe
+C:\Users\admin1\Documents\C#uppgifter\U20 Area of Circle Calculation Task Csharp\obj\Debug\U20 Area of Circle Calculation Task Csharp.pdb
+C:\Users\admin1\Documents\C#uppgifter\U20 Area of Circle Calculation Task Csharp\obj\Debug\U20 Area of Circle Calculation Task Csharp.exe.config

@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\C#uppgifter\ClassTostring\obj\Debug\ClassTostring.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#uppgifter\ClassTostring\obj\Debug\ClassTostring.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#uppgifter\ClassTostring\bin\Debug\ClassTostring.exe.config
+C:\Users\admin1\Documents\C#uppgifter\ClassTostring\bin\Debug\ClassTostring.exe
+C:\Users\admin1\Documents\C#uppgifter\ClassTostring\bin\Debug\ClassTostring.pdb
+C:\Users\admin1\Documents\C#uppgifter\ClassTostring\obj\Debug\ClassTostring.exe
+C:\Users\admin1\Documents\C#uppgifter\ClassTostring\obj\Debug\ClassTostring.pdb
+C:\Users\admin1\Documents\C#uppgifter\ClassTostring\obj\Debug\ClassTostring.exe.config

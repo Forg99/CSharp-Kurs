@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U20 Area of Circle Calculation Task Csharp", "U20 Area of Circle Calculation Task Csharp.csproj", "{83647CD3-151C-4E70-BE5D-78AF1B7D890C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83647CD3-151C-4E70-BE5D-78AF1B7D890C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83647CD3-151C-4E70-BE5D-78AF1B7D890C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83647CD3-151C-4E70-BE5D-78AF1B7D890C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83647CD3-151C-4E70-BE5D-78AF1B7D890C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {087C514F-0937-4BAC-9959-C31B56E0E474}
+	EndGlobalSection
+EndGlobal
