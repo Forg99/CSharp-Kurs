@@ -10,10 +10,10 @@ namespace U9_Boolean_Task_in_Csharp
     {
         static void Main(string[] args)
         {
-            int num1 = 2;
-            int num2 = 5;
-            int num3 = 1;
-            int num4 = 2;
+            int num1 = 1;
+            int num2 = 2;
+            int num3 = 3;
+            int num4 = 1;
 
             bool isTrue = true;
 
@@ -23,26 +23,8 @@ namespace U9_Boolean_Task_in_Csharp
 
             Console.WriteLine(result1);
             Console.WriteLine(result2);
-            Console.WriteLine(resultNot + "\n");
+            Console.WriteLine(resultNot);
 
-
-            bool Num1GreaterNum3 =  num1 > num3;
-            bool Num2LessNum4= num2 < num4;
-            bool Num1EqualNum4 = num1 == num4;
-            bool Num2NotEqualNum3 = num2 != num3;
-
-
-            Console.WriteLine(Num1GreaterNum3);
-            Console.WriteLine(Num2LessNum4);
-            Console.WriteLine(Num1EqualNum4);
-            Console.WriteLine(Num2NotEqualNum3 + "\n");
-
-
-            bool expressiono1 = (num1 > num3) && (num2 < num4);
-            bool expressiono2 = (num1 < num3) || (num2 > num4);
-
-            Console.WriteLine(expressiono1);
-            Console.WriteLine(expressiono2);
         }
     }
 }

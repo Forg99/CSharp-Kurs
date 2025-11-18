@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\C#uppgifter\1-VariablesInC#\bin\Debug\1-VariablesInC#.exe.config
+C:\Users\admin1\Documents\C#uppgifter\1-VariablesInC#\bin\Debug\1-VariablesInC#.exe
+C:\Users\admin1\Documents\C#uppgifter\1-VariablesInC#\bin\Debug\1-VariablesInC#.pdb
+C:\Users\admin1\Documents\C#uppgifter\1-VariablesInC#\obj\Debug\1-VariablesInC#.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#uppgifter\1-VariablesInC#\obj\Debug\1-VariablesInC#.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#uppgifter\1-VariablesInC#\obj\Debug\1-VariablesInC#.exe
+C:\Users\admin1\Documents\C#uppgifter\1-VariablesInC#\obj\Debug\1-VariablesInC#.pdb

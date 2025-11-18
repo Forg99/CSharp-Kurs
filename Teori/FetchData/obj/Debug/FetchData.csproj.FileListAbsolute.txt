@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\C#uppgifter\FetchData\bin\Debug\FetchData.exe.config
+C:\Users\admin1\Documents\C#uppgifter\FetchData\bin\Debug\FetchData.exe
+C:\Users\admin1\Documents\C#uppgifter\FetchData\bin\Debug\FetchData.pdb
+C:\Users\admin1\Documents\C#uppgifter\FetchData\obj\Debug\FetchData.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#uppgifter\FetchData\obj\Debug\FetchData.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#uppgifter\FetchData\obj\Debug\FetchData.exe
+C:\Users\admin1\Documents\C#uppgifter\FetchData\obj\Debug\FetchData.pdb

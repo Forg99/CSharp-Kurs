@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin1\\Documents\\C#uppgifter\\U20 Area of Circle Calculation Task Csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\admin1\\CSharp-Kurs\\Uppgifter\\U20 Area of Circle Calculation Task Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83647CD3-151C-4E70-BE5D-78AF1B7D890C}|U20 Area of Circle Calculation Task Csharp.csproj|c:\\users\\admin1\\documents\\c#uppgifter\\u20 area of circle calculation task csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83647CD3-151C-4E70-BE5D-78AF1B7D890C}|U20 Area of Circle Calculation Task Csharp.csproj|c:\\users\\admin1\\csharp-kurs\\uppgifter\\u20 area of circle calculation task csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83647CD3-151C-4E70-BE5D-78AF1B7D890C}|U20 Area of Circle Calculation Task Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin1\\Documents\\C#uppgifter\\U20 Area of Circle Calculation Task Csharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin1\\CSharp-Kurs\\Uppgifter\\U20 Area of Circle Calculation Task Csharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\admin1\\Documents\\C#uppgifter\\U20 Area of Circle Calculation Task Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin1\\CSharp-Kurs\\Uppgifter\\U20 Area of Circle Calculation Task Csharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T07:42:57.492Z",
               "EditorCaption": ""

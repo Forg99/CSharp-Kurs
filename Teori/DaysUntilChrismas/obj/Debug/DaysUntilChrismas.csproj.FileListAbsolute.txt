@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\C#uppgifter\DaysUntilChrismas\bin\Debug\DaysUntilChrismas.exe.config
+C:\Users\admin1\Documents\C#uppgifter\DaysUntilChrismas\bin\Debug\DaysUntilChrismas.exe
+C:\Users\admin1\Documents\C#uppgifter\DaysUntilChrismas\bin\Debug\DaysUntilChrismas.pdb
+C:\Users\admin1\Documents\C#uppgifter\DaysUntilChrismas\obj\Debug\DaysUntilChrismas.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\C#uppgifter\DaysUntilChrismas\obj\Debug\DaysUntilChrismas.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\C#uppgifter\DaysUntilChrismas\obj\Debug\DaysUntilChrismas.exe
+C:\Users\admin1\Documents\C#uppgifter\DaysUntilChrismas\obj\Debug\DaysUntilChrismas.pdb
