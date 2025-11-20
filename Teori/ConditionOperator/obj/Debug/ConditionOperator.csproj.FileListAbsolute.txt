@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\ConditionOperator\bin\Debug\ConditionOperator.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\ConditionOperator\bin\Debug\ConditionOperator.exe
+C:\Users\admin1\Documents\c#Grundkurs\ConditionOperator\bin\Debug\ConditionOperator.pdb
+C:\Users\admin1\Documents\c#Grundkurs\ConditionOperator\obj\Debug\ConditionOperator.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\ConditionOperator\obj\Debug\ConditionOperator.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\ConditionOperator\obj\Debug\ConditionOperator.exe
+C:\Users\admin1\Documents\c#Grundkurs\ConditionOperator\obj\Debug\ConditionOperator.pdb

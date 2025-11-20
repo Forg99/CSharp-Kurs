@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\booleans\bin\Debug\booleans.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\booleans\bin\Debug\booleans.exe
+C:\Users\admin1\Documents\c#Grundkurs\booleans\bin\Debug\booleans.pdb
+C:\Users\admin1\Documents\c#Grundkurs\booleans\obj\Debug\booleans.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\booleans\obj\Debug\booleans.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\booleans\obj\Debug\booleans.exe
+C:\Users\admin1\Documents\c#Grundkurs\booleans\obj\Debug\booleans.pdb

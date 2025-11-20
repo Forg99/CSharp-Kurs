@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\Loops\bin\Debug\Loops.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\Loops\bin\Debug\Loops.exe
+C:\Users\admin1\Documents\c#Grundkurs\Loops\bin\Debug\Loops.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Loops\obj\Debug\Loops.exe
+C:\Users\admin1\Documents\c#Grundkurs\Loops\obj\Debug\Loops.pdb

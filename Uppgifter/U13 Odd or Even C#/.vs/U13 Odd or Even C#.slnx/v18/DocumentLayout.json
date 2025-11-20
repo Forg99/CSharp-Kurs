@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fredrik\\Documents\\Praktikum C# skit\\C#uppgifter\\U13 Odd or Even C#\\",
+  "WorkspaceRootPath": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U13 Odd or Even C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A38319E7-572D-4B50-8FDD-4AF626104567}|U13 Odd or Even C#\\U13 Odd or Even C#.csproj|c:\\users\\fredrik\\documents\\praktikum c# skit\\c#uppgifter\\u13 odd or even c#\\u13 odd or even c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A38319E7-572D-4B50-8FDD-4AF626104567}|U13 Odd or Even C#\\U13 Odd or Even C#.csproj|c:\\users\\fredrik\\csharp-kurs\\uppgifter\\u13 odd or even c#\\u13 odd or even c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38319E7-572D-4B50-8FDD-4AF626104567}|U13 Odd or Even C#\\U13 Odd or Even C#.csproj|solutionrelative:u13 odd or even c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fredrik\\Documents\\Praktikum C# skit\\C#uppgifter\\U13 Odd or Even C#\\U13 Odd or Even C#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U13 Odd or Even C#\\U13 Odd or Even C#\\Program.cs",
               "RelativeDocumentMoniker": "U13 Odd or Even C#\\Program.cs",
-              "ToolTip": "C:\\Users\\Fredrik\\Documents\\Praktikum C# skit\\C#uppgifter\\U13 Odd or Even C#\\U13 Odd or Even C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U13 Odd or Even C#\\U13 Odd or Even C#\\Program.cs",
               "RelativeToolTip": "U13 Odd or Even C#\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

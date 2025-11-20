@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\ArrayClear\obj\Debug\ArrayClear.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\ArrayClear\obj\Debug\ArrayClear.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\ArrayClear\bin\Debug\ArrayClear.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\ArrayClear\bin\Debug\ArrayClear.exe
+C:\Users\admin1\Documents\c#Grundkurs\ArrayClear\bin\Debug\ArrayClear.pdb
+C:\Users\admin1\Documents\c#Grundkurs\ArrayClear\obj\Debug\ArrayClear.exe
+C:\Users\admin1\Documents\c#Grundkurs\ArrayClear\obj\Debug\ArrayClear.pdb

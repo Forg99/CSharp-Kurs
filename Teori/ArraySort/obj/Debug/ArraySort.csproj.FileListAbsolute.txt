@@ -1,0 +1,7 @@
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArraySort\obj\Debug\ArraySort.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArraySort\obj\Debug\ArraySort.pdb

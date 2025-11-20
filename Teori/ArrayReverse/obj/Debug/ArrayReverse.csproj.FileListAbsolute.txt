@@ -1,0 +1,7 @@
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArrayReverse\bin\Debug\ArrayReverse.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArrayReverse\bin\Debug\ArrayReverse.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArrayReverse\obj\Debug\ArrayReverse.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArrayReverse\obj\Debug\ArrayReverse.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\ArrayReverse\obj\Debug\ArrayReverse.pdb

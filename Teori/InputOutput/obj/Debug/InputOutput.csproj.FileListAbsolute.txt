@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\c#Grundkurs\InputOutput\bin\Debug\InputOutput.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\InputOutput\bin\Debug\InputOutput.exe
+C:\Users\admin1\Documents\c#Grundkurs\InputOutput\bin\Debug\InputOutput.pdb
+C:\Users\admin1\Documents\c#Grundkurs\InputOutput\obj\Debug\InputOutput.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\InputOutput\obj\Debug\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\InputOutput\obj\Debug\InputOutput.exe
+C:\Users\admin1\Documents\c#Grundkurs\InputOutput\obj\Debug\InputOutput.pdb
+C:\Users\admin1\Documents\c#Grundkurs\InputOutput\obj\Debug\InputOutput.exe.config

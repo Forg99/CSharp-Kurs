@@ -1,0 +1,14 @@
+C:\Users\admin1\Documents\c#Grundkurs\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\Arrays\bin\Debug\Arrays.exe
+C:\Users\admin1\Documents\c#Grundkurs\Arrays\bin\Debug\Arrays.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\Arrays\obj\Debug\Arrays.exe
+C:\Users\admin1\Documents\c#Grundkurs\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\Arrays\bin\Debug\Arrays.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\Arrays\obj\Debug\Arrays.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\c#Grundkurs\Arrays\obj\Debug\Arrays.pdb

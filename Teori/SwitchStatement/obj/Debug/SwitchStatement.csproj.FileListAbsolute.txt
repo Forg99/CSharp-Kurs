@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\SwitchStatement\bin\Debug\SwitchStatement.exe
+C:\Users\admin1\Documents\c#Grundkurs\SwitchStatement\bin\Debug\SwitchStatement.pdb
+C:\Users\admin1\Documents\c#Grundkurs\SwitchStatement\obj\Debug\SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\SwitchStatement\obj\Debug\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\SwitchStatement\obj\Debug\SwitchStatement.exe
+C:\Users\admin1\Documents\c#Grundkurs\SwitchStatement\obj\Debug\SwitchStatement.pdb

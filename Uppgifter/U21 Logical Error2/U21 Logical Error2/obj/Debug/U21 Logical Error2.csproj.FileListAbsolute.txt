@@ -1,0 +1,7 @@
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U21 Logical Error2\U21 Logical Error2\bin\Debug\U21 Logical Error2.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U21 Logical Error2\U21 Logical Error2\bin\Debug\U21 Logical Error2.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U21 Logical Error2\U21 Logical Error2\bin\Debug\U21 Logical Error2.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U21 Logical Error2\U21 Logical Error2\obj\Debug\U21 Logical Error2.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U21 Logical Error2\U21 Logical Error2\obj\Debug\U21 Logical Error2.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U21 Logical Error2\U21 Logical Error2\obj\Debug\U21 Logical Error2.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U21 Logical Error2\U21 Logical Error2\obj\Debug\U21 Logical Error2.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormattingExamples\bin\Debug\NumericFormattingExamples.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormattingExamples\bin\Debug\NumericFormattingExamples.exe
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormattingExamples\bin\Debug\NumericFormattingExamples.pdb
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormattingExamples\obj\Debug\NumericFormattingExamples.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormattingExamples\obj\Debug\NumericFormattingExamples.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormattingExamples\obj\Debug\NumericFormattingExamples.exe
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormattingExamples\obj\Debug\NumericFormattingExamples.pdb

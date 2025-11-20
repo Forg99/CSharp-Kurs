@@ -1,0 +1,7 @@
+C:\Users\Fredrik\CSharp-Kurs\Teori\ClassFunktions\bin\Debug\ClassFunktions.exe.config
+C:\Users\Fredrik\CSharp-Kurs\Teori\ClassFunktions\bin\Debug\ClassFunktions.exe
+C:\Users\Fredrik\CSharp-Kurs\Teori\ClassFunktions\bin\Debug\ClassFunktions.pdb
+C:\Users\Fredrik\CSharp-Kurs\Teori\ClassFunktions\obj\Debug\ClassFunktions.csproj.AssemblyReference.cache
+C:\Users\Fredrik\CSharp-Kurs\Teori\ClassFunktions\obj\Debug\ClassFunktions.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\CSharp-Kurs\Teori\ClassFunktions\obj\Debug\ClassFunktions.exe
+C:\Users\Fredrik\CSharp-Kurs\Teori\ClassFunktions\obj\Debug\ClassFunktions.pdb

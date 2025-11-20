@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\c#Grundkurs\HelloVariables\obj\Debug\HelloVariables.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\HelloVariables\obj\Debug\HelloVariables.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\HelloVariables\bin\Debug\HelloVariables.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\HelloVariables\bin\Debug\HelloVariables.exe
+C:\Users\admin1\Documents\c#Grundkurs\HelloVariables\bin\Debug\HelloVariables.pdb
+C:\Users\admin1\Documents\c#Grundkurs\HelloVariables\obj\Debug\HelloVariables.exe
+C:\Users\admin1\Documents\c#Grundkurs\HelloVariables\obj\Debug\HelloVariables.pdb
+C:\Users\admin1\Documents\c#Grundkurs\HelloVariables\obj\Debug\HelloVariables.exe.config

@@ -1,0 +1,2 @@
+C:\Users\admin1\Documents\c#Grundkurs\String_Chars\obj\Debug\String_Chars.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\String_Chars\obj\Debug\String_Chars.csproj.CoreCompileInputs.cache

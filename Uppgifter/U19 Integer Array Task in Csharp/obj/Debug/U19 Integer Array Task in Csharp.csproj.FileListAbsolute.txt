@@ -1,0 +1,7 @@
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U19 Integer Array Task in Csharp\obj\Debug\U19 Integer Array Task in Csharp.csproj.AssemblyReference.cache
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U19 Integer Array Task in Csharp\obj\Debug\U19 Integer Array Task in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U19 Integer Array Task in Csharp\bin\Debug\U19 Integer Array Task in Csharp.exe.config
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U19 Integer Array Task in Csharp\bin\Debug\U19 Integer Array Task in Csharp.exe
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U19 Integer Array Task in Csharp\bin\Debug\U19 Integer Array Task in Csharp.pdb
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U19 Integer Array Task in Csharp\obj\Debug\U19 Integer Array Task in Csharp.exe
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U19 Integer Array Task in Csharp\obj\Debug\U19 Integer Array Task in Csharp.pdb

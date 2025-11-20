@@ -1,0 +1,7 @@
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U22 Logical error 3\U22 Logical error 3\bin\Debug\U22 Logical error 3.exe.config
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U22 Logical error 3\U22 Logical error 3\bin\Debug\U22 Logical error 3.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U22 Logical error 3\U22 Logical error 3\bin\Debug\U22 Logical error 3.pdb
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U22 Logical error 3\U22 Logical error 3\obj\Debug\U22 Logical error 3.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U22 Logical error 3\U22 Logical error 3\obj\Debug\U22 Logical error 3.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U22 Logical error 3\U22 Logical error 3\obj\Debug\U22 Logical error 3.exe
+C:\Users\Fredrik\Documents\Praktikum C# skit\C#uppgifter\U22 Logical error 3\U22 Logical error 3\obj\Debug\U22 Logical error 3.pdb

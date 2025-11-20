@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormatting\bin\Debug\NumericFormatting.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormatting\bin\Debug\NumericFormatting.exe
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormatting\bin\Debug\NumericFormatting.pdb
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormatting\obj\Debug\NumericFormatting.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormatting\obj\Debug\NumericFormatting.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormatting\obj\Debug\NumericFormatting.exe
+C:\Users\admin1\Documents\c#Grundkurs\NumericFormatting\obj\Debug\NumericFormatting.pdb
