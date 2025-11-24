@@ -12,7 +12,7 @@ namespace _4_if_statements_in_C_
         {
 
             Console.Write("Enter your age: ");
-            int age = Console.Read();
+            int age = int.Parse(Console.ReadLine());
             if (age >= 18)
             {
                 Console.WriteLine("You are eligible to vote ");

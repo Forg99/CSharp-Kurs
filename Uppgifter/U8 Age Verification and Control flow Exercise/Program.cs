@@ -14,7 +14,7 @@ namespace U8_Age_Verification_and_Control_flow_Exercise
             string StringAge = Console.ReadLine();
             int Age = Convert.ToInt32(StringAge);
 
-            int LegalAge = 18;
+            const int LegalAge = 18;
 
             int Counter = 1;
 
