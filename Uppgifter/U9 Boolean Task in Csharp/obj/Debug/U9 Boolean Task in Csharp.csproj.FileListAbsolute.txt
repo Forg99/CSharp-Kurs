@@ -6,3 +6,10 @@ C:\Users\admin1\Documents\C#uppgifter\U9 Boolean Task in Csharp\obj\Debug\U9 Boo
 C:\Users\admin1\Documents\C#uppgifter\U9 Boolean Task in Csharp\obj\Debug\U9 Boolean Task in Csharp.exe
 C:\Users\admin1\Documents\C#uppgifter\U9 Boolean Task in Csharp\obj\Debug\U9 Boolean Task in Csharp.pdb
 C:\Users\admin1\Documents\C#uppgifter\U9 Boolean Task in Csharp\obj\Debug\U9 Boolean Task in Csharp.exe.config
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U9 Boolean Task in Csharp\bin\Debug\U9 Boolean Task in Csharp.exe.config
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U9 Boolean Task in Csharp\bin\Debug\U9 Boolean Task in Csharp.exe
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U9 Boolean Task in Csharp\bin\Debug\U9 Boolean Task in Csharp.pdb
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U9 Boolean Task in Csharp\obj\Debug\U9 Boolean Task in Csharp.csproj.AssemblyReference.cache
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U9 Boolean Task in Csharp\obj\Debug\U9 Boolean Task in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U9 Boolean Task in Csharp\obj\Debug\U9 Boolean Task in Csharp.exe
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U9 Boolean Task in Csharp\obj\Debug\U9 Boolean Task in Csharp.pdb

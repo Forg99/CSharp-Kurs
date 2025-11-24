@@ -35,7 +35,7 @@ namespace U17_Dictionary_Case_task_in_Csharp
                         int newID = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Assign Name of student");
                         string newName = Console.ReadLine();
-                        students.Add(newID, newName);
+                        students[newID] = newName;  //was "students.Add(newID, newName);" which caused a crash if the ID existed beforehand
                         Console.WriteLine($"student ID '{newID}' has been added");
                         break;
                     case 2:

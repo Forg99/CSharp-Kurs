@@ -6,3 +6,10 @@ C:\Users\admin1\Documents\C#uppgifter\U17 Dictionary Case task in Csharp\obj\Deb
 C:\Users\admin1\Documents\C#uppgifter\U17 Dictionary Case task in Csharp\obj\Debug\U17 Dictionary Case task in Csharp.exe
 C:\Users\admin1\Documents\C#uppgifter\U17 Dictionary Case task in Csharp\obj\Debug\U17 Dictionary Case task in Csharp.pdb
 C:\Users\admin1\Documents\C#uppgifter\U17 Dictionary Case task in Csharp\obj\Debug\U17 Dictionary Case task in Csharp.exe.config
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U17 Dictionary Case task in Csharp\bin\Debug\U17 Dictionary Case task in Csharp.exe.config
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U17 Dictionary Case task in Csharp\bin\Debug\U17 Dictionary Case task in Csharp.exe
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U17 Dictionary Case task in Csharp\bin\Debug\U17 Dictionary Case task in Csharp.pdb
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U17 Dictionary Case task in Csharp\obj\Debug\U17 Dictionary Case task in Csharp.csproj.AssemblyReference.cache
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U17 Dictionary Case task in Csharp\obj\Debug\U17 Dictionary Case task in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U17 Dictionary Case task in Csharp\obj\Debug\U17 Dictionary Case task in Csharp.exe
+C:\Users\Fredrik\CSharp-Kurs\Uppgifter\U17 Dictionary Case task in Csharp\obj\Debug\U17 Dictionary Case task in Csharp.pdb
