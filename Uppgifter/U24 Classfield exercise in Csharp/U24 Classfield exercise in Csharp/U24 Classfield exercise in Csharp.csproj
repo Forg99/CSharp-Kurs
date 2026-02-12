@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E2096704-1410-44DE-93C9-CCB1ED4A4D81}</ProjectGuid>
+    <ProjectGuid>{39CAFF02-2670-4D90-8E0C-4BCD42BF47B0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassConstructor</RootNamespace>
-    <AssemblyName>ClassConstructor</AssemblyName>
+    <RootNamespace>U24_Classfield_exercise_in_Csharp</RootNamespace>
+    <AssemblyName>U24 Classfield exercise in Csharp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -1,0 +1,7 @@
+C:\Users\Labb\Desktop\C#Basics\ClasswithStringandMathMethods\bin\Debug\ClasswithStringandMathMethods.exe.config
+C:\Users\Labb\Desktop\C#Basics\ClasswithStringandMathMethods\bin\Debug\ClasswithStringandMathMethods.exe
+C:\Users\Labb\Desktop\C#Basics\ClasswithStringandMathMethods\bin\Debug\ClasswithStringandMathMethods.pdb
+C:\Users\Labb\Desktop\C#Basics\ClasswithStringandMathMethods\obj\Debug\ClasswithStringandMathMethods.csproj.AssemblyReference.cache
+C:\Users\Labb\Desktop\C#Basics\ClasswithStringandMathMethods\obj\Debug\ClasswithStringandMathMethods.csproj.CoreCompileInputs.cache
+C:\Users\Labb\Desktop\C#Basics\ClasswithStringandMathMethods\obj\Debug\ClasswithStringandMathMethods.exe
+C:\Users\Labb\Desktop\C#Basics\ClasswithStringandMathMethods\obj\Debug\ClasswithStringandMathMethods.pdb

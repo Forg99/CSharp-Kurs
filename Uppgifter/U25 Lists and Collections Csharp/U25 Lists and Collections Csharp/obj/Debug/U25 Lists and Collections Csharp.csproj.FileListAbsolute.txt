@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\U25 Lists and Collections Csharp\U25 Lists and Collections Csharp\obj\Debug\U25 Lists and Collections Csharp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\U25 Lists and Collections Csharp\U25 Lists and Collections Csharp\obj\Debug\U25 Lists and Collections Csharp.csproj.CoreCompileInputs.cache

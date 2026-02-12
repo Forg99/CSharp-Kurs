@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\U24 Classfield exercise in Csharp\U24 Classfield exercise in Csharp\obj\Debug\U24 Classfield exercise in Csharp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\U24 Classfield exercise in Csharp\U24 Classfield exercise in Csharp\obj\Debug\U24 Classfield exercise in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\U24 Classfield exercise in Csharp\U24 Classfield exercise in Csharp\bin\Debug\U24 Classfield exercise in Csharp.exe.config
+C:\Users\admin\source\repos\U24 Classfield exercise in Csharp\U24 Classfield exercise in Csharp\bin\Debug\U24 Classfield exercise in Csharp.exe
+C:\Users\admin\source\repos\U24 Classfield exercise in Csharp\U24 Classfield exercise in Csharp\bin\Debug\U24 Classfield exercise in Csharp.pdb
+C:\Users\admin\source\repos\U24 Classfield exercise in Csharp\U24 Classfield exercise in Csharp\obj\Debug\U24 Classfield exercise in Csharp.exe
+C:\Users\admin\source\repos\U24 Classfield exercise in Csharp\U24 Classfield exercise in Csharp\obj\Debug\U24 Classfield exercise in Csharp.pdb
