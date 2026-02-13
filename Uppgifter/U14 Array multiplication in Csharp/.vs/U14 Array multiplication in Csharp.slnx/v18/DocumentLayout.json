@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U14 Array multiplication in Csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\CSharp-Kurs\\Uppgifter\\U14 Array multiplication in Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7584F448-6219-4A5F-B5B8-34A0D1044CB3}|U14 Array multiplication in Csharp\\U14 Array multiplication in Csharp.csproj|c:\\users\\fredrik\\csharp-kurs\\uppgifter\\u14 array multiplication in csharp\\u14 array multiplication in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7584F448-6219-4A5F-B5B8-34A0D1044CB3}|U14 Array multiplication in Csharp\\U14 Array multiplication in Csharp.csproj|c:\\users\\admin\\csharp-kurs\\uppgifter\\u14 array multiplication in csharp\\u14 array multiplication in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7584F448-6219-4A5F-B5B8-34A0D1044CB3}|U14 Array multiplication in Csharp\\U14 Array multiplication in Csharp.csproj|solutionrelative:u14 array multiplication in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,20 +17,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fredrik\\Downloads\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Fredrik\\Downloads\\Program.cs",
               "ToolTip": "C:\\Users\\Fredrik\\Downloads\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Fredrik\\Downloads\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T11:07:26.093Z"
@@ -39,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U14 Array multiplication in Csharp\\U14 Array multiplication in Csharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\CSharp-Kurs\\Uppgifter\\U14 Array multiplication in Csharp\\U14 Array multiplication in Csharp\\Program.cs",
               "RelativeDocumentMoniker": "U14 Array multiplication in Csharp\\Program.cs",
-              "ToolTip": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U14 Array multiplication in Csharp\\U14 Array multiplication in Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\CSharp-Kurs\\Uppgifter\\U14 Array multiplication in Csharp\\U14 Array multiplication in Csharp\\Program.cs",
               "RelativeToolTip": "U14 Array multiplication in Csharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T08:28:00.628Z",
               "EditorCaption": ""

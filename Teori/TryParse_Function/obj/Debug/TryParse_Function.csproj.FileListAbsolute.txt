@@ -1,0 +1,7 @@
+C:\Users\admin\CSharp-Kurs\Teori\TryParse_Function\bin\Debug\TryParse_Function.exe.config
+C:\Users\admin\CSharp-Kurs\Teori\TryParse_Function\bin\Debug\TryParse_Function.exe
+C:\Users\admin\CSharp-Kurs\Teori\TryParse_Function\bin\Debug\TryParse_Function.pdb
+C:\Users\admin\CSharp-Kurs\Teori\TryParse_Function\obj\Debug\TryParse_Function.csproj.AssemblyReference.cache
+C:\Users\admin\CSharp-Kurs\Teori\TryParse_Function\obj\Debug\TryParse_Function.csproj.CoreCompileInputs.cache
+C:\Users\admin\CSharp-Kurs\Teori\TryParse_Function\obj\Debug\TryParse_Function.exe
+C:\Users\admin\CSharp-Kurs\Teori\TryParse_Function\obj\Debug\TryParse_Function.pdb

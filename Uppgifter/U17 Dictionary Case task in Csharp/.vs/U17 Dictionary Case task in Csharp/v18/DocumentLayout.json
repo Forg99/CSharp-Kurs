@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U17 Dictionary Case task in Csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\CSharp-Kurs\\Uppgifter\\U17 Dictionary Case task in Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9FFD53A-EFBB-4F50-8313-39F9765B131C}|U17 Dictionary Case task in Csharp.csproj|c:\\users\\fredrik\\csharp-kurs\\uppgifter\\u17 dictionary case task in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9FFD53A-EFBB-4F50-8313-39F9765B131C}|U17 Dictionary Case task in Csharp.csproj|c:\\users\\admin\\csharp-kurs\\uppgifter\\u17 dictionary case task in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9FFD53A-EFBB-4F50-8313-39F9765B131C}|U17 Dictionary Case task in Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U17 Dictionary Case task in Csharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\CSharp-Kurs\\Uppgifter\\U17 Dictionary Case task in Csharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Fredrik\\CSharp-Kurs\\Uppgifter\\U17 Dictionary Case task in Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\CSharp-Kurs\\Uppgifter\\U17 Dictionary Case task in Csharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T08:35:44.073Z",
               "EditorCaption": ""
